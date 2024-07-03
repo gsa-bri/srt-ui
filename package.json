@@ -17,7 +17,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular-devkit/build-angular": "^0.13.0",
+    "@angular-devkit/build-angular": "^14.0.0",
     "@angular-devkit/build-ng-packagr": "^0.13.9",
     "@angular/animations": "~8.0.0",
     "@angular/cdk": "^8.2.3",
@@ -61,7 +61,7 @@
     "url-search-params-polyfill": "^7.0.0",
     "uswds": "^1.6.12",
     "web-animations-js": "^2.3.2",
-    "webpack-dev-server": "^3.8.1",
+    "webpack-dev-server": "^4.9.0",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
